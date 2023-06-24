@@ -1,0 +1,26 @@
+Top 10 winning streaks
+No of Trades, Start-End, Pnl of streak
+7 Trades  2021-02-01 to 2020-09-08 Profit = 26157.5
+7 Trades  2020-08-27 to 2020-12-11 Profit = 21127.5
+6 Trades  2020-10-14 to 2020-10-12 Profit = 17292.5
+6 Trades  2020-10-21 to 2020-09-25 Profit = 16918.749999999996
+5 Trades  2020-11-09 to 2020-12-29 Profit = 14725.0
+4 Trades  2020-09-18 to 2021-02-03 Profit = 14078.75
+4 Trades  2021-01-27 to 2021-01-19 Profit = 13033.75
+5 Trades  2021-01-01 to 2020-12-15 Profit = 12277.499999999998
+4 Trades  2021-01-20 to 2020-11-26 Profit = 11918.75
+4 Trades  2020-10-01 to 2020-09-17 Profit = 11712.5
+ 
+ 
+Top 10 losing streaks
+No of Trades, Start-End, Pnl of streak
+18 Trades  2021-01-19 to 2020-12-18 Profit = -12843.75
+16 Trades  2020-08-06 to 2020-11-19 Profit = -11588.750000000002
+13 Trades  2020-11-13 to 2020-08-19 Profit = -11456.250000000004
+10 Trades  2021-01-27 to 2021-02-12 Profit = -10051.249999999998
+9 Trades  2020-10-01 to 2020-10-07 Profit = -8697.500000000004
+13 Trades  2020-12-04 to 2020-11-02 Profit = -8527.500000000002
+9 Trades  2020-10-07 to 2021-01-19 Profit = -8315.000000000002
+11 Trades  2020-09-18 to 2020-09-21 Profit = -8302.5
+9 Trades  2021-02-11 to 2020-09-02 Profit = -8248.75
+10 Trades  2020-09-02 to 2020-11-17 Profit = -7913.750000000001

@@ -1,0 +1,6 @@
+Total trades - The total number of entries in the final dataframe: 1772
+Unique days - The number of unique dates in the ‘Date’ column: 141
+Average trades - Total trades / Unique Days: 4806.312056737589
+Total Pnl - Sum of the Pnl column: 677690.0
+Profit Trades - Number of entries where Pnl > 0: 594
+Loss Trades - Number of entries where Pnl <= 0: 1178
